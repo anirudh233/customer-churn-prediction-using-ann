@@ -1,1 +1,1 @@
-Customer churn prediction using simple ann . Did preprocessing and min max scaling . Then passed into a simple ann dense neural network . Should optimize it further .
+Customer churn prediction using simple ann . Did preprocessing and min max scaling . Then passed into a simple ann dense neural network . To further improve the recall and precision balanced the dataset using techniques like undersampling , oversampling and smote then compared the results.
